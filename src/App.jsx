@@ -5,7 +5,6 @@ function App() {
     { id: 1, name: "Prince H.", status: "Under Investigation", clearance: "Top Secret" },
     { id: 2, name: "Bill G.", status: "Access Denied", clearance: "Restricted" },
     { id: 3, name: "Donald T.", status: "Archived", clearance: "Public" },
-
   ]);
 
   const [search, setSearch] = useState("");
@@ -19,7 +18,7 @@ function App() {
       <div style={styles.contentWrapper}>
 
       <header style={styles.header}>
-        <h1 style={styles.glitch}>LITTLE SAINT JAMES // DATABASE</h1>
+        <h1 style={styles.glitch}>LITTLE SAINT JAMES EPSTEIN // DATABASE</h1>
         <p>Logged in as: <strong>Fymos@arch-v15</strong></p>
       </header>
 
